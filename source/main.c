@@ -33,7 +33,7 @@ int main(int argc, char **argv)
 		u32 keysDown = hidKeysDown;
 		hidScanInput();
 
-		printf("v1.3.0\n");
+		printf("v1.4.0\n");
 		printf("downloa fefoshep form gothu!!!\n");
 		svcSleepThread(10000000000);
 		printf("downloa compete!! now instalin!\n");
@@ -54,7 +54,7 @@ int main(int argc, char **argv)
 		svcSleepThread(6000000000);
 		printf("unb&\n");
 		svcSleepThread(6000000000);
-		printf("now launchin frii gam!!");
+		printf("now lunching frii gam!!");
 		svcSleepThread(6000000000);
 
 		memset(param, 0, sizeof(param));
