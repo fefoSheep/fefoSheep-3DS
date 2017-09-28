@@ -27,12 +27,16 @@ include $(DEVKITARM)/3ds_rules
 #     - icon.png
 #     - <libctru folder>/default_icon.png
 #---------------------------------------------------------------------------------
-TARGET		:=	$(notdir $(CURDIR))
-BUILD		:=	build
-SOURCES		:=	source
-DATA		:=	data
-INCLUDES	:=	include
-#ROMFS		:=	romfs
+TARGET		    :=	$(notdir $(CURDIR))
+BUILD		    :=	build
+SOURCES		    :=	source
+DATA		    :=	data
+INCLUDES	    :=	include
+APP_TITLE           :=  fefosheep
+APP_DESCRIPTION     :=  bes way 2 git fri gam
+ICON                :=  hum/icon.png
+LOGO                :=
+#ROMFS		    :=	romfs
 
 #---------------------------------------------------------------------------------
 # options for code generation
