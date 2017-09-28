@@ -35,14 +35,16 @@ int main(int argc, char **argv)
 
 		printf("v1.4.0\n");
 		printf("downloa fefoshep form gothu!!!\n");
-		svcSleepThread(10000000000);
+		svcSleepThread(6000000000);
 		printf("downloa compete!! now instalin!\n");
-		svcSleepThread(10000000000);
+		svcSleepThread(6000000000);
 		printf("isntal compete! nowa downloa tree ds friig am!!!\n");
-		svcSleepThread(10000000000);
+		svcSleepThread(6000000000);
 		printf("now doanload swotch frii gam port for tree ds too!\n");
 		svcSleepThread(6000000000);
 		printf("downlaod fri gam wii u on tre ds\n");
+		svcSleepThread(6000000000);
+		printf("now downlaoading wii gam on tre ds\n");
 		svcSleepThread(6000000000);
 		printf("u GO T  FRI GAM!!!\n");
 		svcSleepThread(6000000000);
@@ -54,7 +56,7 @@ int main(int argc, char **argv)
 		svcSleepThread(6000000000);
 		printf("unb&\n");
 		svcSleepThread(6000000000);
-		printf("now lunching frii gam!!");
+		printf("now lunching frii gam!!\n");
 		svcSleepThread(6000000000);
 
 		memset(param, 0, sizeof(param));
