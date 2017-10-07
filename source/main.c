@@ -33,7 +33,7 @@ int main(int argc, char **argv)
 		u32 keysDown = hidKeysDown;
 		hidScanInput();
 
-		printf("v1.4.0\n");
+		printf("v1.5.0\n");
 		printf("downloa fefoshep form gothu!!!\n");
 		svcSleepThread(6000000000);
 		printf("downloa compete!! now instalin!\n");
