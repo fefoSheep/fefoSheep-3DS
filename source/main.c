@@ -53,7 +53,7 @@ int main(int argc, char **argv)
 		svcSleepThread(6000000000);
 		printf("running clongo exploit.....\n");
 		svcSleepThread(10000000000);
-		printf("installing yellownand\n");
+		printf("installing yellownand..\n");
 		svcSleepThread(8000000000);
 		printf("generat new sed\n");
 		svcSleepThread(6000000000);
