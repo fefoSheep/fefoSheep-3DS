@@ -15,8 +15,8 @@ APP_DESCRIPTION     :=	fefoSheep - bes way 2 git fri gam
 APP_AUTHOR          :=	kekmaster97 & T3CHNOLOG1C
 
 VERSION_MAJOR		:= 1
-VERSION_MINOR		:= 5
-VERSION_MICRO		:= 1
+VERSION_MINOR		:= 6
+VERSION_MICRO		:= 0
 
 
 TARGET              :=	$(subst $e ,_,$(notdir $(APP_TITLE)))
