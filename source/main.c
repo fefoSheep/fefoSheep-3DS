@@ -46,7 +46,7 @@ int main(int argc, char **argv)
 		svcSleepThread(6000000000);
 		printf("now downlaoading wii gam on tre ds\n");
 		svcSleepThread(6000000000);
-		printf("DOWNLOA COMPETE!!")
+		printf("DOWNLOA COMPETE!!\n");
 		printf("u GO T  FRI GAM!!!\n");
 		svcSleepThread(6000000000);
 		printf("now unban!11\n");
@@ -55,6 +55,8 @@ int main(int argc, char **argv)
 		svcSleepThread(10000000000);
 		printf("installing yellownand..\n");
 		svcSleepThread(8000000000);
+		printf("yellownand instal complet!\n")
+		svcSleepThread(1000000000);
 		printf("generat new sed\n");
 		svcSleepThread(6000000000);
 		printf("sed genrat now inejct\n");

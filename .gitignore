@@ -62,3 +62,5 @@ out/
 # Sublime stuff
 .clang_complete
 
+# VS Code stuff
+.vscode/
