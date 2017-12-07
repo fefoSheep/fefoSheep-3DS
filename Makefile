@@ -56,8 +56,6 @@ CFLAGS	:=	-g -Wall -Wextra -O2 -mword-relocations \
 			-ffunction-sections \
 			$(ARCH)
 
-revision := 2.0
-
 CFLAGS	+=	$(INCLUDE) -DARM11 -D_3DS -D_GNU_SOURCE -DVERSION="\"$(revision)\""
 
 CXXFLAGS	:= $(CFLAGS) -fno-rtti -fno-exceptions -std=gnu++11
@@ -158,7 +156,7 @@ release: all
 	@cp $(OUTDIR)/$(APP_TITLE).3dsx 3ds/$(APP_TITLE)/$(APP_TITLE).3dsx
 	@cp $(OUTDIR)/$(APP_TITLE).smdh 3ds/$(APP_TITLE)/$(APP_TITLE).smdh
 	@cp $(OUTDIR)/$(APP_TITLE).cia $(APP_TITLE).cia
-	@zip -r $(APP_TITLE)-$(revision).zip 3ds/ $(APP_TITLE).cia
+	@zip -r $(APP_TITLE)-$(VERSION_MAJOR).$(VERSION_MINOR).$(VERSION_MICRO).zip 3ds/ $(APP_TITLE).cia
 	@rm -rf 3ds/ $(APP_TITLE).cia
 	@rm -rf $(OUTDIR)
 #---------------------------------------------------------------------------------
