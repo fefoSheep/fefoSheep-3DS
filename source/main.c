@@ -55,7 +55,7 @@ int main(int argc, char **argv)
 		svcSleepThread(10000000000);
 		printf("installing yellownand..\n");
 		svcSleepThread(8000000000);
-		printf("yellownand instal complet!\n")
+		printf("yellownand instal complet!\n");
 		svcSleepThread(1000000000);
 		printf("generat new sed\n");
 		svcSleepThread(6000000000);
