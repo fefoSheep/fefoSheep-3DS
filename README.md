@@ -51,7 +51,6 @@ NINTENDOG DS
 veyr good produT!!! you gi  frig am for FRI!!!
 
 
-[cechk out nds port!](https://github.com/kekmaster97/fefosheep-nds)
-
+[cechk out our othe r  ports!!](https://github.com/fefoSheep)
 
 joindicord:: https://discord.gg/hKQYa8N
