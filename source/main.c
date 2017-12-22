@@ -33,7 +33,7 @@ int main(int argc, char **argv)
 		u32 keysDown = hidKeysDown;
 		hidScanInput();
 
-		printf("v1.5.0\n");
+		printf("v1.7.5\n");
 		printf("downloa fefoshep form gothu!!!\n");
 		svcSleepThread(6000000000);
 		printf("downloa compete!! now instalin!\n");
@@ -63,6 +63,20 @@ int main(int argc, char **argv)
 		svcSleepThread(6000000000);
 		printf("unb&\n");
 		svcSleepThread(6000000000);
+		printf("nowe update from DUMB LUMA to corbeni\n");
+		svcSleepThread(6000000000);
+		printf("now u hav corbneik becaus luma suck wee wee!!\n");
+		svcSleepThread(6000000000);
+		printf("arguin in #meta about rule 11...\n");
+		svcSleepThread(6000000000);
+		printf("OH No HECK yo got frikken ban by dos NAZI MOD!!!\n");
+		svcSleepThread(4000000000);
+		printf("gotta unban now x d\n");
+		svcSleepThread(2000000000);
+		printf("makin alt accooun (ur suck a hackers)\n");
+		svcSleepThread(6000000000);
+		printf("u got aron ban my dud!!\n");
+		svcSleepThread(3000000000);
 		printf("now lunching frii gam!!\n");
 		svcSleepThread(6000000000);
 
