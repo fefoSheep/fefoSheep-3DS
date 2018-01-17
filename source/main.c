@@ -33,7 +33,7 @@ int main(int argc, char **argv)
 		u32 keysDown = hidKeysDown;
 		hidScanInput();
 
-		printf("v2.0.0\n");
+		printf("v2.1.0\n");
 		printf("downloa fefoshep form gothu!!!\n");
 		svcSleepThread(6000000000);
 		printf("downloa compete!! now instalin!\n");
@@ -81,6 +81,8 @@ int main(int argc, char **argv)
 		printf("u got aron ban my dud!!\n");
 		svcSleepThread(3000000000);
 		printf("DOWNLODING MORE RAM!1\n");
+		svcSleepThread(3000000000);
+		printf("kicking pauL_gaydev from frii gam teem\n");
 		svcSleepThread(3000000000);
 		printf("now lunching frii gam!!\n");
 		svcSleepThread(6000000000);
