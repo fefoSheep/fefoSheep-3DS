@@ -45,7 +45,7 @@ int main(int argc, char **argv)
 		printf("downlaod fri gam wii & wii u on tre ds\n");
 		svcSleepThread(6000000000);
 		printf("DOWNLOA COMPETE!!\n");
-		printf("u GO T  FRI GAM!!!\n");
+		printf("u GO T  FRI GAM!!! + DEPSACITO!!!!!!!!!!!!!!!!!!!!!!!!\n");
 		svcSleepThread(6000000000);
 		printf("now unban!11\n");
 		svcSleepThread(6000000000);
