@@ -33,24 +33,15 @@ int main(int argc, char **argv)
 		u32 keysDown = hidKeysDown;
 		hidScanInput();
 
-		printf("v2.1.0\n");
-		printf("downloa fefoshep form gothu!!!\n");
+		printf("v2.4\n");
+		printf("if it dont work then go for a henati break and try again lator!\n");
 		svcSleepThread(6000000000);
-		printf("downloa compete!! now instalin!\n");
+		printf("DOWNLOADING FRII GAMES...\n");
 		svcSleepThread(6000000000);
-		printf("isntal compete! nowa downloa tree ds friig am!!\n");
+		printf("DOWNLOA COMPLETE!\n");
 		svcSleepThread(6000000000);
-		printf("now doanload swotch frii gam port for tree ds too\n");
+		printf("bribing nintendo to help with fefosho\n");
 		svcSleepThread(6000000000);
-		printf("downlaod fri gam wii & wii u on tre ds\n");
-		svcSleepThread(6000000000);
-		printf("DOWNLOA COMPETE!!\n");
-		printf("u GO T  FRI GAM!!!\n");
-		svcSleepThread(6000000000);
-		printf("now unban!11\n");
-		svcSleepThread(6000000000);
-		printf("running clongo exploit.....\n");
-		svcSleepThread(10000000000);
 		printf("installing yellownand..\n");
 		svcSleepThread(8000000000);
 		printf("yellownand instal complet!\n");
@@ -74,25 +65,20 @@ int main(int argc, char **argv)
 		svcSleepThread(6000000000);
 		printf("OH No HECK yo got frikken ban by dos NAZI MOD!!!\n");
 		svcSleepThread(4000000000);
-		printf("gotta unban now x d\n");
-		svcSleepThread(2000000000);
 		printf("makin alt accooun (ur such a hackers)\n");
 		svcSleepThread(6000000000);
 		printf("u got aron ban my dud!!\n");
 		svcSleepThread(3000000000);
-		printf("DOWNLODING MORE RAM!1\n");
-		svcSleepThread(3000000000);
-		printf("kicking pauL_gaydev from frii gam teem\n");
-		svcSleepThread(3000000000);
 		printf("now lunching frii gam!!\n");
 		svcSleepThread(6000000000);
+
 
 		memset(param, 0, sizeof(param));
 		memset(hmac, 0, sizeof(hmac));
 
 		APT_PrepareToDoApplicationJump(0, shopID, 0);
 		APT_DoApplicationJump(param, sizeof(param), hmac);
-
+		
 		if (keysDown & KEY_START) break;
 
 		gfxFlushBuffers();
