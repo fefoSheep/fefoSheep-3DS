@@ -1,7 +1,7 @@
 # fefosheep !!!11
 
 
-FEFOSHEEP!!! THE BEST WAY TO GIT FRII GAM ON TREE DS AN SWITCH!!!!!
+FEFOSHEEP!!! THE BEST WAY TO GIT FRIE GAM ON TREE DS AN SWITCH!!!!!
 ![fefosheep](https://cdn.discordapp.com/attachments/341741717319581696/359360709269913601/fefosheep.png)
 
 som may say dis ap no work, BUT TI DOE GIB FRI GAM!!
